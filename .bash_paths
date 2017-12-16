@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# ===============================================================
+# bash paths
+#
+# L. Gloege December 2017
+# ===============================================================
+#
+# added by Anaconda3 5.0.1 installer
+export PATH="/Users/gloege/anaconda3/bin:$PATH"
+
+# Needed for NCL
+export NCARG_ROOT="/usr/local/ncl-6.4.0"
+export PATH="${NCARG_ROOT}/bin:${PATH}"
+
+# Globus command line interface
+export PATH="$PATH:$HOME/.globus-cli-virtualenv/bin"
