@@ -29,7 +29,7 @@ Pathogen packages are stored in .vim directory
 Configuration for GNU-screen
 
 # Homebrew
-Homebrew is a package manager for Mac that makes software simple.
+Homebrew is a package manager for Mac that makes software installation simple.
 The ```brew.sh``` script installs formulaes (or command line tools) and
 ```brew-cask.sh``` mainly installs gui applications.
 To install these formulaes and casks run the following commands.
@@ -49,6 +49,7 @@ brew install <formulae>
 ```
 
 or you can add them to ```brew.sh```
+Here are the formulaes currently installed by ```brew.sh```
 
 - [coreutils](https://www.gnu.org/software/coreutils)
 - [moreutils](https://joeyh.name/code/moreutils/)
@@ -83,6 +84,7 @@ Casks can be installed with the command
 ```bash
 brew cask install <cask>
 ```
+Here are the caskes currently installed by ```brew-cask.sh```
 
 - java
 - spectacle
