@@ -52,6 +52,9 @@ BREWS=(
          openssh
          ssh-copy-id
          screen
+         csvkit
+         datamash
+         drake
  )
 
 brew install ${BREWS[@]}

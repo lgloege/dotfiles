@@ -75,6 +75,9 @@ Here are the formulaes currently installed by ```brew.sh```
 - [openssh](https://www.openssh.com)
 - [ssh-copy-id](https://www.openssh.com)
 - [screen](https://www.gnu.org/software/screen/)
+- [csvkit](https://csvkit.readthedocs.io/en/1.0.2/)
+- [datamash](https://www.gnu.org/software/datamash/)
+- [drake](https://github.com/Factual/drake)
 
 ## Casks
 Here is a list of casks installed by ```brew-cask.sh```
