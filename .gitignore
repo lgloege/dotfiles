@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Project specific
+vim/.netrwhist
+vim/plugged/**
+oh-my-zsh/custom/variables.zsh
