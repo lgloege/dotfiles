@@ -82,8 +82,9 @@ cursor:
 font:
   normal:
     # Needs to be powerline font if using zsh theme with powerline
-    family: Source Code Pro for Powerline   
- 
+    #family: Source Code Pro for Powerline   
+    family: Source Code Pro
+    
   # Point size
   size: 17
 
